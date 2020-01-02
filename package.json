@@ -1,9 +1,9 @@
 {
   "name": "js-classes-examplary-module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Peter Dyumin",
-    "url" : "https://github.com/peterdee"
+    "url": "https://github.com/peterdee"
   },
   "description": "This is an examplary module",
   "homepage": "https://github.com/peterdee/js-classes",
@@ -19,7 +19,7 @@
   },
   "main": "index.js",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/peterdee/js-classes"
+    "type": "git",
+    "url": "https://github.com/peterdee/js-classes"
   }
 }
