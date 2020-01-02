@@ -1,8 +1,25 @@
 {
   "name": "js-classes-examplary-module",
   "version": "0.0.2",
-  "author": "Peter Dyumin",
+  "author": {
+    "name": "Peter Dyumin",
+    "url" : "https://github.com/peterdee"
+  },
   "description": "This is an examplary module",
+  "homepage": "https://github.com/peterdee/js-classes",
+  "license": "ISC",
+  "keywords": [
+    "Example",
+    "Module",
+    "NPM"
+  ],
+  "engines": {
+    "node": "13.5.0",
+    "npm": "6.13.4"
+  },
   "main": "index.js",
-  "license": "ISC"
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/peterdee/js-classes"
+  }
 }
