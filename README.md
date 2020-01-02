@@ -6,6 +6,8 @@
 
 This module uses [OpenDota API](https://docs.opendota.com) to search for players by player names.
 
+[![Known Vulnerabilities](https://snyk.io/test/github/peterdee/js-classes/badge.svg?targetFile=package.json)](https://snyk.io/test/github/peterdee/js-classes?targetFile=package.json)
+
 ### Installation
 
 ```
